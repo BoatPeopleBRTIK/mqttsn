@@ -1,6 +1,6 @@
 Name: mqttsn
 Version: 1.0
-Release: 1
+Release: 1%{?dist}
 License: EDL&EPL
 Summary: Eclipse Paho MQTT-SN Embedded C client
 Group: Development/Libraries
