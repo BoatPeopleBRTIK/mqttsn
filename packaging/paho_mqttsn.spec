@@ -6,6 +6,7 @@ Summary: Eclipse Paho MQTT-SN Embedded C client
 Group: Development/Libraries
 URL: https://github.com/eclipse/paho.mqtt-sn.embedded-c
 Source: %{name}-%{version}.tar.gz
+BuildRequires: cmake
 
 %description
 Eclipse Paho MQTT-SN Embedded C client
